@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProgramGuide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="unable_to_load_please_try_again">Unable to Load. Please try again</string>
+
+    <string-array name="sort">
+        <item>Sort</item>
+        <item>Name</item>
+        <item>Number</item>
+    </string-array>
+</resources>
